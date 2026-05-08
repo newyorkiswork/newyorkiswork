@@ -2,19 +2,19 @@
 
 Full-stack engineer based in New York. Pursuit Fellow. I build AI-powered web apps end-to-end — UI, frontend, and product spec.
 
-**Currently:** building **Auro** — an AI voice agent for laundromat operators — and leading a small-business build collective with the Brooklyn & Manhattan Chambers of Commerce.
+**Currently:** building **Juana / Auro** — a voice-first laundry ticketing system for university dorms — and leading a small-business build collective with the Brooklyn & Manhattan Chambers of Commerce.
 
-**Stack:** TypeScript · React / Next.js 15 · Node · Tailwind · shadcn/ui · OpenAI / Claude APIs · Hume EVI · Supabase · v0 / Vercel · Replit
+**Stack:** TypeScript · React / Next.js 16 · Node · Tailwind · shadcn/ui · Anthropic Claude · Retell · Hume EVI · Supabase · Vercel
 
 ### What I'm shipping
 
-- 🎙️ **Auro** — AI voice agent for laundromat customer calls. Hume EVI + Google Maps + Supabase + Next.js. *(Repo consolidation in progress.)*
+- 🎙️ **[Juana / Auro](https://juana-psi.vercel.app/)** — voice-first dorm laundry ticketing. Resident (Maya) calls Juana, Claude classifies the issue and creates a ticket, an operator (Alison / Tom) sees it in their queue, refund flows back to the resident's wallet. Next.js 16 + Supabase + Anthropic Claude + Retell. *(Source repo private — happy to grant access on request.)*
 - 🏠 **[LeadFlow AI](https://github.com/newyorkiswork/leadflow)** — real estate investor platform with PropStream & BatchSkipTrace integrations. Express + Prisma + Supabase + TypeScript.
 - 🚀 **[FortyLaunch](https://github.com/newyorkiswork/fortylaunch)** — AI Studio web app. Vite + React + Google Gemini API + Supabase. · [Live](https://fortylaunch.vercel.app)
-- 🏡 **[AI Floor Plan & Market Insights](https://github.com/Valbows/AI-Floor-Plan-Insights)** — team project led by [@Valbows](https://github.com/Valbows). Real-estate AI assistant that parses floor plans, enriches with market data, and generates MLS-ready listings. Flask + React + Docker + Supabase + Gemini Vision. *(My contributions: Docker container networking and Vite proxy configuration.)*
 - 🌱 **[Aquaponics AI Agent](https://v0.app/chat/aquaponics-ai-agent-HGEh9D8wC8a)** — AI agent prototype shipped via v0
 - 🗽 **[New York is Home](https://replit.com/@robertpetillo/New-York-is-Home)** — hosted on Replit
 - 🌐 **[Portfolio (WIP)](https://portfolio-rho-opal-62.vercel.app/portfolio)** — Next.js 15 + shadcn/ui + Framer Motion · [source](https://github.com/newyorkiswork/portfolio-hub)
+- 🌎 **[Climate Tech Funding Tracker](https://github.com/anthonyruan/climate-tech-funding-tracker)** — built with classmate [@anthonyruan](https://github.com/anthonyruan)
 
 ### Beyond solo projects
 
