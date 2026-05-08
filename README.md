@@ -15,7 +15,7 @@ Full-stack engineer based in New York. Pursuit Fellow. I build AI-powered web ap
 - 🌱 **[Aquaponics AI Agent](https://v0.app/chat/aquaponics-ai-agent-HGEh9D8wC8a)** — AI agent prototype shipped via v0
 - 🗽 **[New York is Home](https://replit.com/@robertpetillo/New-York-is-Home)** — hosted on Replit
 - 🌐 **[Portfolio (WIP)](https://portfolio-rho-opal-62.vercel.app/portfolio)** — Next.js 15 + shadcn/ui + Framer Motion · [source](https://github.com/newyorkiswork/portfolio-hub)
-- 🌎 **[Climate Tech Funding Tracker](https://github.com/anthonyruan/climate-tech-funding-tracker)** — paired with my Pursuit classmate [@anthonyruan](https://github.com/anthonyruan) on design / UX / product spec; commits live on his account because we paired on his setup. Python + OpenAI + Streamlit.
+- 🌎 **[Climate Tech Funding Tracker](https://github.com/anthonyruan/climate-tech-funding-tracker)** — paired with classmate [@anthonyruan](https://github.com/anthonyruan); I led design / UX / product spec, Anthony owns the public repo. Python + Streamlit + OpenAI GPT.
 
 ### Beyond solo projects
 
