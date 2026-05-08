@@ -11,10 +11,10 @@ Full-stack engineer based in New York. Pursuit Fellow. I build AI-powered web ap
 - 🎙️ **Auro** — AI voice agent for laundromat customer calls. Hume EVI + Google Maps + Supabase + Next.js. *(Repo consolidation in progress.)*
 - 🏠 **[LeadFlow AI](https://github.com/newyorkiswork/leadflow)** — real estate investor platform with PropStream & BatchSkipTrace integrations. Express + Prisma + Supabase + TypeScript.
 - 🚀 **[FortyLaunch](https://github.com/newyorkiswork/fortylaunch)** — AI Studio web app. Vite + React + Google Gemini API + Supabase. · [Live](https://fortylaunch.vercel.app)
+- 🏡 **[AI Floor Plan & Market Insights](https://github.com/Valbows/AI-Floor-Plan-Insights)** — team project led by [@Valbows](https://github.com/Valbows). Real-estate AI assistant that parses floor plans, enriches with market data, and generates MLS-ready listings. Flask + React + Docker + Supabase + Gemini Vision. *(My contributions: Docker container networking and Vite proxy configuration.)*
 - 🌱 **[Aquaponics AI Agent](https://v0.app/chat/aquaponics-ai-agent-HGEh9D8wC8a)** — AI agent prototype shipped via v0
 - 🗽 **[New York is Home](https://replit.com/@robertpetillo/New-York-is-Home)** — hosted on Replit
 - 🌐 **[Portfolio (WIP)](https://portfolio-rho-opal-62.vercel.app/portfolio)** — Next.js 15 + shadcn/ui + Framer Motion · [source](https://github.com/newyorkiswork/portfolio-hub)
-- 🌎 **[Climate Tech Funding Tracker](https://github.com/anthonyruan/climate-tech-funding-tracker)** — built with classmate [@anthonyruan](https://github.com/anthonyruan)
 
 ### Beyond solo projects
 
